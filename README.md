@@ -20,6 +20,7 @@ Seleção de produtos usando CheckBox
 Cálculo automático do valor total
 Exibição do total em um AlertDialog
 Interface simples e intuitiva
+
 🧩 Componentes utilizados
 TextView → Exibir textos
 CheckBox → Seleção de produtos
@@ -32,6 +33,7 @@ O layout consiste em:
 Título: Sistema de Compras
 Lista de produtos com CheckBoxes
 Botão: TOTAL DAS COMPRAS
+
 ⚙️ Configuração do Projeto
 Application Name: Sistema de Compras
 Package Name: app.usuario
@@ -45,11 +47,13 @@ Este projeto foi desenvolvido para:
 Praticar lógica de programação
 Trabalhar com eventos de interface
 Aprender manipulação de componentes no Android
+
 📌 Melhorias futuras
 Adicionar mais produtos
 Implementar lista dinâmica (RecyclerView)
 Salvar histórico de compras
 Melhorar design com Material Design
+
 📄 Licença
 
 Este projeto é livre para uso acadêmico e aprendizado.
